@@ -454,7 +454,7 @@
  */
 #define E0_AUTO_FAN_PIN FAN1_PIN
 #define E1_AUTO_FAN_PIN FAN1_PIN
-#define E2_AUTO_FAN_PIN PS_ON_PIN
+#define E2_AUTO_FAN_PIN -1
 #define E3_AUTO_FAN_PIN -1
 #define E4_AUTO_FAN_PIN -1
 #define E5_AUTO_FAN_PIN -1
