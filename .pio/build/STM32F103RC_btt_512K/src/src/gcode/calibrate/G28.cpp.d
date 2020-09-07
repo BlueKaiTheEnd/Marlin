@@ -1,21 +1,21 @@
 .pio\build\STM32F103RC_btt_512K\src\src\gcode\calibrate\G28.cpp.o: \
  Marlin\src\gcode\calibrate\G28.cpp \
- Marlin\src\gcode\calibrate\../../inc/MarlinConfig.h \
- Marlin\src\gcode\calibrate\../../inc/MarlinConfigPre.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/platforms.h \
- Marlin\src\gcode\calibrate\../../inc/../core/boards.h \
- Marlin\src\gcode\calibrate\../../inc/../core/macros.h \
- Marlin\src\gcode\calibrate\../../inc/../../Configuration.h \
- Marlin\src\gcode\calibrate\../../inc/Version.h \
- Marlin\src\gcode\calibrate\../../inc/Conditionals_LCD.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
- Marlin\src\gcode\calibrate\../../inc/../core/drivers.h \
- Marlin\src\gcode\calibrate\../../inc/../../Configuration_adv.h \
- Marlin\src\gcode\calibrate\../../inc/Conditionals_adv.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/HAL.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/HAL.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/../shared/Marduino.h \
+ e:\bitbucket\marlin\marlin\src\inc\marlinconfig.h \
+ e:\bitbucket\marlin\marlin\src\inc\MarlinConfigPre.h \
+ e:\bitbucket\marlin\marlin\src\hal\platforms.h \
+ e:\bitbucket\marlin\marlin\src\core\boards.h \
+ e:\bitbucket\marlin\marlin\src\core\macros.h \
+ e:\bitbucket\marlin\marlin\configuration.h \
+ e:\bitbucket\marlin\marlin\src\inc\Version.h \
+ e:\bitbucket\marlin\marlin\src\inc\Conditionals_LCD.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_lcd.h \
+ e:\bitbucket\marlin\marlin\src\core\drivers.h \
+ e:\bitbucket\marlin\marlin\configuration_adv.h \
+ e:\bitbucket\marlin\marlin\src\inc\Conditionals_adv.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_adv.h \
+ e:\bitbucket\marlin\marlin\src\hal\hal.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\hal.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,37 +66,37 @@
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/fastio.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/watchdog.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\fastio.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\watchdog.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/util/atomic.h \
- Marlin\src\gcode\calibrate\../../inc/../pins/pins.h \
- Marlin\src\gcode\calibrate\../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h \
- Marlin\src\gcode\calibrate\../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_common.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/timers.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/spi_pins.h \
- Marlin\src\gcode\calibrate\../../inc/Conditionals_post.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/Conditionals_post.h \
- Marlin\src\gcode\calibrate\../../inc/../core/types.h \
- Marlin\src\gcode\calibrate\../../inc/SanityCheck.h \
- Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/SanityCheck.h \
- Marlin\src\gcode\calibrate\../../inc/../core/language.h \
- Marlin\src\gcode\calibrate\../../inc/../core/multi_language.h \
- Marlin\src\gcode\calibrate\../../inc/../core/../lcd/language/language_en.h \
- Marlin\src\gcode\calibrate\../../inc/../core/utility.h \
- Marlin\src\gcode\calibrate\../../inc/../core/../core/millis_t.h \
- Marlin\src\gcode\calibrate\../../inc/../core/serial.h \
+ e:\bitbucket\marlin\marlin\src\pins\pins.h \
+ e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h \
+ e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_common.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\timers.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\spi_pins.h \
+ e:\bitbucket\marlin\marlin\src\inc\Conditionals_post.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_post.h \
+ e:\bitbucket\marlin\marlin\src\core\types.h \
+ e:\bitbucket\marlin\marlin\src\inc\SanityCheck.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\sanitycheck.h \
+ e:\bitbucket\marlin\marlin\src\core\language.h \
+ e:\bitbucket\marlin\marlin\src\core\multi_language.h \
+ e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h \
+ e:\bitbucket\marlin\marlin\src\core\utility.h \
+ e:\bitbucket\marlin\marlin\src\core\millis_t.h \
+ e:\bitbucket\marlin\marlin\src\core\serial.h \
  Marlin\src\gcode\calibrate\../gcode.h \
  Marlin\src\gcode\calibrate\../parser.h \
- Marlin\src\gcode\calibrate\../../module/stepper.h \
- Marlin\src\gcode\calibrate\../../module/planner.h \
- Marlin\src\gcode\calibrate\../../module/../MarlinCore.h \
- Marlin\src\gcode\calibrate\../../module/motion.h \
- Marlin\src\gcode\calibrate\../../module/../gcode/queue.h \
- Marlin\src\gcode\calibrate\../../module/stepper/indirection.h \
- Marlin\src\gcode\calibrate\../../module/stepper/trinamic.h \
+ e:\bitbucket\marlin\marlin\src\module\stepper.h \
+ e:\bitbucket\marlin\marlin\src\module\planner.h \
+ e:\bitbucket\marlin\marlin\src\marlincore.h \
+ e:\bitbucket\marlin\marlin\src\module\motion.h \
+ e:\bitbucket\marlin\marlin\src\gcode\queue.h \
+ e:\bitbucket\marlin\marlin\src\module\stepper/indirection.h \
+ e:\bitbucket\marlin\marlin\src\module\stepper/trinamic.h \
  .pio\libdeps\STM32F103RC_btt_512K\TMCStepper\src/TMCStepper.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Stream.h \
  Marlin\src\HAL\STM32F1/SPI.h \
@@ -117,64 +117,64 @@
  .pio\libdeps\STM32F103RC_btt_512K\TMCStepper\src/source/TMC2208_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K\TMCStepper\src/source/TMC2209_bitfields.h \
  .pio\libdeps\STM32F103RC_btt_512K\TMCStepper\src/source/TMC2660_bitfields.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/tmc_util.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/ultralcd.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../libs/buzzer.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../libs/circularqueue.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/cardreader.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdFile.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdBaseFile.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdFatConfig.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdVolume.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/Sd2Card.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdInfo.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdFatStructs.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../feature/pause.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../feature/../libs/nozzle.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/lcdprint.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/fontutils.h \
- Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h \
+ e:\bitbucket\marlin\marlin\src\feature\tmc_util.h \
+ e:\bitbucket\marlin\marlin\src\lcd\ultralcd.h \
+ e:\bitbucket\marlin\marlin\src\libs\buzzer.h \
+ e:\bitbucket\marlin\marlin\src\libs\circularqueue.h \
+ e:\bitbucket\marlin\marlin\src\sd\cardreader.h \
+ e:\bitbucket\marlin\marlin\src\sd\SdFile.h \
+ e:\bitbucket\marlin\marlin\src\sd\SdBaseFile.h \
+ e:\bitbucket\marlin\marlin\src\sd\SdFatConfig.h \
+ e:\bitbucket\marlin\marlin\src\sd\SdVolume.h \
+ e:\bitbucket\marlin\marlin\src\sd\Sd2Card.h \
+ e:\bitbucket\marlin\marlin\src\sd\SdInfo.h \
+ e:\bitbucket\marlin\marlin\src\sd\SdFatStructs.h \
+ e:\bitbucket\marlin\marlin\src\feature\pause.h \
+ e:\bitbucket\marlin\marlin\src\libs\nozzle.h \
+ e:\bitbucket\marlin\marlin\src\lcd\lcdprint.h \
+ e:\bitbucket\marlin\marlin\src\lcd\fontutils.h \
+ e:\bitbucket\marlin\marlin\src\lcd\dogm/u8g_fontutf8.h \
  .pio\libdeps\STM32F103RC_btt_512K\U8glib-HAL_ID1932\src/U8glib.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Print.h \
  .pio\libdeps\STM32F103RC_btt_512K\U8glib-HAL_ID1932\src/clib/u8g.h \
- Marlin\src\gcode\calibrate\../../module/endstops.h \
- Marlin\src\gcode\calibrate\../../feature/bedlevel/bedlevel.h \
- Marlin\src\gcode\calibrate\../../feature/bedlevel/mbl/mesh_bed_leveling.h \
- Marlin\src\gcode\calibrate\../../module/probe.h \
- Marlin\src\gcode\calibrate\../../feature/bltouch.h \
- Marlin\src\gcode\calibrate\../../core/debug_out.h
+ e:\bitbucket\marlin\marlin\src\module\endstops.h \
+ e:\bitbucket\marlin\marlin\src\feature\bedlevel\bedlevel.h \
+ e:\bitbucket\marlin\marlin\src\feature\bedlevel\abl/abl.h \
+ e:\bitbucket\marlin\marlin\src\module\probe.h \
+ e:\bitbucket\marlin\marlin\src\feature\bltouch.h \
+ e:\bitbucket\marlin\marlin\src\core\debug_out.h
 
-Marlin\src\gcode\calibrate\../../inc/MarlinConfig.h:
+e:\bitbucket\marlin\marlin\src\inc\marlinconfig.h:
 
-Marlin\src\gcode\calibrate\../../inc/MarlinConfigPre.h:
+e:\bitbucket\marlin\marlin\src\inc\MarlinConfigPre.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/platforms.h:
+e:\bitbucket\marlin\marlin\src\hal\platforms.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/boards.h:
+e:\bitbucket\marlin\marlin\src\core\boards.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/macros.h:
+e:\bitbucket\marlin\marlin\src\core\macros.h:
 
-Marlin\src\gcode\calibrate\../../inc/../../Configuration.h:
+e:\bitbucket\marlin\marlin\configuration.h:
 
-Marlin\src\gcode\calibrate\../../inc/Version.h:
+e:\bitbucket\marlin\marlin\src\inc\Version.h:
 
-Marlin\src\gcode\calibrate\../../inc/Conditionals_LCD.h:
+e:\bitbucket\marlin\marlin\src\inc\Conditionals_LCD.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_lcd.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/drivers.h:
+e:\bitbucket\marlin\marlin\src\core\drivers.h:
 
-Marlin\src\gcode\calibrate\../../inc/../../Configuration_adv.h:
+e:\bitbucket\marlin\marlin\configuration_adv.h:
 
-Marlin\src\gcode\calibrate\../../inc/Conditionals_adv.h:
+e:\bitbucket\marlin\marlin\src\inc\Conditionals_adv.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/Conditionals_adv.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_adv.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/HAL.h:
+e:\bitbucket\marlin\marlin\src\hal\hal.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/HAL.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\hal.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/../shared/Marduino.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -276,67 +276,67 @@ C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/fastio.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\fastio.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/./STM32F1/watchdog.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\watchdog.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/util/atomic.h:
 
-Marlin\src\gcode\calibrate\../../inc/../pins/pins.h:
+e:\bitbucket\marlin\marlin\src\pins\pins.h:
 
-Marlin\src\gcode\calibrate\../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h:
+e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h:
 
-Marlin\src\gcode\calibrate\../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_common.h:
+e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_common.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/timers.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\timers.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/spi_pins.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\spi_pins.h:
 
-Marlin\src\gcode\calibrate\../../inc/Conditionals_post.h:
+e:\bitbucket\marlin\marlin\src\inc\Conditionals_post.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/Conditionals_post.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_post.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/types.h:
+e:\bitbucket\marlin\marlin\src\core\types.h:
 
-Marlin\src\gcode\calibrate\../../inc/SanityCheck.h:
+e:\bitbucket\marlin\marlin\src\inc\SanityCheck.h:
 
-Marlin\src\gcode\calibrate\../../inc/../HAL/STM32F1/inc/SanityCheck.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\sanitycheck.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/language.h:
+e:\bitbucket\marlin\marlin\src\core\language.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/multi_language.h:
+e:\bitbucket\marlin\marlin\src\core\multi_language.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/../lcd/language/language_en.h:
+e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/utility.h:
+e:\bitbucket\marlin\marlin\src\core\utility.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/../core/millis_t.h:
+e:\bitbucket\marlin\marlin\src\core\millis_t.h:
 
-Marlin\src\gcode\calibrate\../../inc/../core/serial.h:
+e:\bitbucket\marlin\marlin\src\core\serial.h:
 
 Marlin\src\gcode\calibrate\../gcode.h:
 
 Marlin\src\gcode\calibrate\../parser.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper.h:
+e:\bitbucket\marlin\marlin\src\module\stepper.h:
 
-Marlin\src\gcode\calibrate\../../module/planner.h:
+e:\bitbucket\marlin\marlin\src\module\planner.h:
 
-Marlin\src\gcode\calibrate\../../module/../MarlinCore.h:
+e:\bitbucket\marlin\marlin\src\marlincore.h:
 
-Marlin\src\gcode\calibrate\../../module/motion.h:
+e:\bitbucket\marlin\marlin\src\module\motion.h:
 
-Marlin\src\gcode\calibrate\../../module/../gcode/queue.h:
+e:\bitbucket\marlin\marlin\src\gcode\queue.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/indirection.h:
+e:\bitbucket\marlin\marlin\src\module\stepper/indirection.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/trinamic.h:
+e:\bitbucket\marlin\marlin\src\module\stepper/trinamic.h:
 
 .pio\libdeps\STM32F103RC_btt_512K\TMCStepper\src/TMCStepper.h:
 
@@ -378,39 +378,39 @@ C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 .pio\libdeps\STM32F103RC_btt_512K\TMCStepper\src/source/TMC2660_bitfields.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/tmc_util.h:
+e:\bitbucket\marlin\marlin\src\feature\tmc_util.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/ultralcd.h:
+e:\bitbucket\marlin\marlin\src\lcd\ultralcd.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../libs/buzzer.h:
+e:\bitbucket\marlin\marlin\src\libs\buzzer.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../libs/circularqueue.h:
+e:\bitbucket\marlin\marlin\src\libs\circularqueue.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/cardreader.h:
+e:\bitbucket\marlin\marlin\src\sd\cardreader.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdFile.h:
+e:\bitbucket\marlin\marlin\src\sd\SdFile.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdBaseFile.h:
+e:\bitbucket\marlin\marlin\src\sd\SdBaseFile.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdFatConfig.h:
+e:\bitbucket\marlin\marlin\src\sd\SdFatConfig.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdVolume.h:
+e:\bitbucket\marlin\marlin\src\sd\SdVolume.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/Sd2Card.h:
+e:\bitbucket\marlin\marlin\src\sd\Sd2Card.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdInfo.h:
+e:\bitbucket\marlin\marlin\src\sd\SdInfo.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../sd/SdFatStructs.h:
+e:\bitbucket\marlin\marlin\src\sd\SdFatStructs.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../feature/pause.h:
+e:\bitbucket\marlin\marlin\src\feature\pause.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/../feature/../libs/nozzle.h:
+e:\bitbucket\marlin\marlin\src\libs\nozzle.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/lcdprint.h:
+e:\bitbucket\marlin\marlin\src\lcd\lcdprint.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/fontutils.h:
+e:\bitbucket\marlin\marlin\src\lcd\fontutils.h:
 
-Marlin\src\gcode\calibrate\../../module/stepper/../../feature/../lcd/dogm/u8g_fontutf8.h:
+e:\bitbucket\marlin\marlin\src\lcd\dogm/u8g_fontutf8.h:
 
 .pio\libdeps\STM32F103RC_btt_512K\U8glib-HAL_ID1932\src/U8glib.h:
 
@@ -418,14 +418,14 @@ C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 .pio\libdeps\STM32F103RC_btt_512K\U8glib-HAL_ID1932\src/clib/u8g.h:
 
-Marlin\src\gcode\calibrate\../../module/endstops.h:
+e:\bitbucket\marlin\marlin\src\module\endstops.h:
 
-Marlin\src\gcode\calibrate\../../feature/bedlevel/bedlevel.h:
+e:\bitbucket\marlin\marlin\src\feature\bedlevel\bedlevel.h:
 
-Marlin\src\gcode\calibrate\../../feature/bedlevel/mbl/mesh_bed_leveling.h:
+e:\bitbucket\marlin\marlin\src\feature\bedlevel\abl/abl.h:
 
-Marlin\src\gcode\calibrate\../../module/probe.h:
+e:\bitbucket\marlin\marlin\src\module\probe.h:
 
-Marlin\src\gcode\calibrate\../../feature/bltouch.h:
+e:\bitbucket\marlin\marlin\src\feature\bltouch.h:
 
-Marlin\src\gcode\calibrate\../../core/debug_out.h:
+e:\bitbucket\marlin\marlin\src\core\debug_out.h:

@@ -1,21 +1,21 @@
 .pio\build\STM32F103RC_btt_512K\src\src\feature\bedlevel\mbl\mesh_bed_leveling.cpp.o: \
  Marlin\src\feature\bedlevel\mbl\mesh_bed_leveling.cpp \
- Marlin\src\feature\bedlevel\mbl\../../../inc/MarlinConfig.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/MarlinConfigPre.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/platforms.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/boards.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/macros.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../../Configuration.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/Version.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/Conditionals_LCD.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/drivers.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../../Configuration_adv.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/Conditionals_adv.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/HAL.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/HAL.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/../shared/Marduino.h \
+ e:\bitbucket\marlin\marlin\src\inc\marlinconfig.h \
+ e:\bitbucket\marlin\marlin\src\inc\MarlinConfigPre.h \
+ e:\bitbucket\marlin\marlin\src\hal\platforms.h \
+ e:\bitbucket\marlin\marlin\src\core\boards.h \
+ e:\bitbucket\marlin\marlin\src\core\macros.h \
+ e:\bitbucket\marlin\marlin\configuration.h \
+ e:\bitbucket\marlin\marlin\src\inc\Version.h \
+ e:\bitbucket\marlin\marlin\src\inc\Conditionals_LCD.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_lcd.h \
+ e:\bitbucket\marlin\marlin\src\core\drivers.h \
+ e:\bitbucket\marlin\marlin\configuration_adv.h \
+ e:\bitbucket\marlin\marlin\src\inc\Conditionals_adv.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_adv.h \
+ e:\bitbucket\marlin\marlin\src\hal\hal.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\hal.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,63 +66,63 @@
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/fastio.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/watchdog.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\fastio.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\watchdog.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/util/atomic.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../pins/pins.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_common.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/timers.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/spi_pins.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/Conditionals_post.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/Conditionals_post.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/types.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/SanityCheck.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/SanityCheck.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/language.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/multi_language.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/../lcd/language/language_en.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/utility.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/../core/millis_t.h \
- Marlin\src\feature\bedlevel\mbl\../../../inc/../core/serial.h \
+ e:\bitbucket\marlin\marlin\src\pins\pins.h \
+ e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h \
+ e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_common.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\timers.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\spi_pins.h \
+ e:\bitbucket\marlin\marlin\src\inc\Conditionals_post.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_post.h \
+ e:\bitbucket\marlin\marlin\src\core\types.h \
+ e:\bitbucket\marlin\marlin\src\inc\SanityCheck.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\sanitycheck.h \
+ e:\bitbucket\marlin\marlin\src\core\language.h \
+ e:\bitbucket\marlin\marlin\src\core\multi_language.h \
+ e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h \
+ e:\bitbucket\marlin\marlin\src\core\utility.h \
+ e:\bitbucket\marlin\marlin\src\core\millis_t.h \
+ e:\bitbucket\marlin\marlin\src\core\serial.h \
  Marlin\src\feature\bedlevel\mbl\../bedlevel.h \
  Marlin\src\feature\bedlevel\mbl\../mbl/mesh_bed_leveling.h \
- Marlin\src\feature\bedlevel\mbl\../../../module/motion.h
+ e:\bitbucket\marlin\marlin\src\module\motion.h
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/MarlinConfig.h:
+e:\bitbucket\marlin\marlin\src\inc\marlinconfig.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/MarlinConfigPre.h:
+e:\bitbucket\marlin\marlin\src\inc\MarlinConfigPre.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/platforms.h:
+e:\bitbucket\marlin\marlin\src\hal\platforms.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/boards.h:
+e:\bitbucket\marlin\marlin\src\core\boards.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/macros.h:
+e:\bitbucket\marlin\marlin\src\core\macros.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../../Configuration.h:
+e:\bitbucket\marlin\marlin\configuration.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/Version.h:
+e:\bitbucket\marlin\marlin\src\inc\Version.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/Conditionals_LCD.h:
+e:\bitbucket\marlin\marlin\src\inc\Conditionals_LCD.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/Conditionals_LCD.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_lcd.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/drivers.h:
+e:\bitbucket\marlin\marlin\src\core\drivers.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../../Configuration_adv.h:
+e:\bitbucket\marlin\marlin\configuration_adv.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/Conditionals_adv.h:
+e:\bitbucket\marlin\marlin\src\inc\Conditionals_adv.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/Conditionals_adv.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_adv.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/HAL.h:
+e:\bitbucket\marlin\marlin\src\hal\hal.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/HAL.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\hal.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/../shared/Marduino.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -224,52 +224,52 @@ C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/../shared/math_32bit.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/fastio.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\fastio.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/./STM32F1/watchdog.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\watchdog.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/util/atomic.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../pins/pins.h:
+e:\bitbucket\marlin\marlin\src\pins\pins.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h:
+e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_V2_0.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../pins/stm32f1/pins_BTT_SKR_MINI_E3_common.h:
+e:\bitbucket\marlin\marlin\src\pins\stm32f1/pins_BTT_SKR_MINI_E3_common.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/timers.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\timers.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/spi_pins.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\spi_pins.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/Conditionals_post.h:
+e:\bitbucket\marlin\marlin\src\inc\Conditionals_post.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/Conditionals_post.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\conditionals_post.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/types.h:
+e:\bitbucket\marlin\marlin\src\core\types.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/SanityCheck.h:
+e:\bitbucket\marlin\marlin\src\inc\SanityCheck.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../HAL/STM32F1/inc/SanityCheck.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\inc\sanitycheck.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/language.h:
+e:\bitbucket\marlin\marlin\src\core\language.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/multi_language.h:
+e:\bitbucket\marlin\marlin\src\core\multi_language.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/../lcd/language/language_en.h:
+e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/utility.h:
+e:\bitbucket\marlin\marlin\src\core\utility.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/../core/millis_t.h:
+e:\bitbucket\marlin\marlin\src\core\millis_t.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../inc/../core/serial.h:
+e:\bitbucket\marlin\marlin\src\core\serial.h:
 
 Marlin\src\feature\bedlevel\mbl\../bedlevel.h:
 
 Marlin\src\feature\bedlevel\mbl\../mbl/mesh_bed_leveling.h:
 
-Marlin\src\feature\bedlevel\mbl\../../../module/motion.h:
+e:\bitbucket\marlin\marlin\src\module\motion.h:

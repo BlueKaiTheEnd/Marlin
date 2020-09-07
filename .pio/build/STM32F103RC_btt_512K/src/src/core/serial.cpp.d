@@ -5,17 +5,17 @@
  Marlin\src\core\../inc/../HAL/platforms.h \
  Marlin\src\core\../inc/../core/boards.h \
  Marlin\src\core\../inc/../core/macros.h \
- Marlin\src\core\../inc/../../Configuration.h \
+ e:\bitbucket\marlin\marlin\configuration.h \
  Marlin\src\core\../inc/Version.h \
  Marlin\src\core\../inc/Conditionals_LCD.h \
  Marlin\src\core\../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\core\../inc/../core/drivers.h \
- Marlin\src\core\../inc/../../Configuration_adv.h \
+ e:\bitbucket\marlin\marlin\configuration_adv.h \
  Marlin\src\core\../inc/Conditionals_adv.h \
  Marlin\src\core\../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\core\../inc/../HAL/HAL.h \
  Marlin\src\core\../inc/../HAL/./STM32F1/HAL.h \
- Marlin\src\core\../inc/../HAL/./STM32F1/../shared/Marduino.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -66,8 +66,8 @@
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- Marlin\src\core\../inc/../HAL/./STM32F1/../shared/math_32bit.h \
- Marlin\src\core\../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h \
  Marlin\src\core\../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\core\../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -84,9 +84,9 @@
  Marlin\src\core\../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\core\../inc/../core/language.h \
  Marlin\src\core\../inc/../core/multi_language.h \
- Marlin\src\core\../inc/../core/../lcd/language/language_en.h \
+ e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h \
  Marlin\src\core\../inc/../core/utility.h \
- Marlin\src\core\../inc/../core/../core/millis_t.h
+ e:\bitbucket\marlin\marlin\src\core\millis_t.h
 
 Marlin\src\core\serial.h:
 
@@ -100,7 +100,7 @@ Marlin\src\core\../inc/../core/boards.h:
 
 Marlin\src\core\../inc/../core/macros.h:
 
-Marlin\src\core\../inc/../../Configuration.h:
+e:\bitbucket\marlin\marlin\configuration.h:
 
 Marlin\src\core\../inc/Version.h:
 
@@ -110,7 +110,7 @@ Marlin\src\core\../inc/../HAL/STM32F1/inc/Conditionals_LCD.h:
 
 Marlin\src\core\../inc/../core/drivers.h:
 
-Marlin\src\core\../inc/../../Configuration_adv.h:
+e:\bitbucket\marlin\marlin\configuration_adv.h:
 
 Marlin\src\core\../inc/Conditionals_adv.h:
 
@@ -120,7 +120,7 @@ Marlin\src\core\../inc/../HAL/HAL.h:
 
 Marlin\src\core\../inc/../HAL/./STM32F1/HAL.h:
 
-Marlin\src\core\../inc/../HAL/./STM32F1/../shared/Marduino.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -222,9 +222,9 @@ C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-Marlin\src\core\../inc/../HAL/./STM32F1/../shared/math_32bit.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h:
 
-Marlin\src\core\../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h:
 
 Marlin\src\core\../inc/../HAL/./STM32F1/fastio.h:
 
@@ -258,8 +258,8 @@ Marlin\src\core\../inc/../core/language.h:
 
 Marlin\src\core\../inc/../core/multi_language.h:
 
-Marlin\src\core\../inc/../core/../lcd/language/language_en.h:
+e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h:
 
 Marlin\src\core\../inc/../core/utility.h:
 
-Marlin\src\core\../inc/../core/../core/millis_t.h:
+e:\bitbucket\marlin\marlin\src\core\millis_t.h:

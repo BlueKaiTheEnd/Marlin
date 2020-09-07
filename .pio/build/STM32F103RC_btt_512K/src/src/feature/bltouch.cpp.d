@@ -4,17 +4,17 @@
  Marlin\src\feature\../inc/../HAL/platforms.h \
  Marlin\src\feature\../inc/../core/boards.h \
  Marlin\src\feature\../inc/../core/macros.h \
- Marlin\src\feature\../inc/../../Configuration.h \
+ e:\bitbucket\marlin\marlin\configuration.h \
  Marlin\src\feature\../inc/Version.h \
  Marlin\src\feature\../inc/Conditionals_LCD.h \
  Marlin\src\feature\../inc/../HAL/STM32F1/inc/Conditionals_LCD.h \
  Marlin\src\feature\../inc/../core/drivers.h \
- Marlin\src\feature\../inc/../../Configuration_adv.h \
+ e:\bitbucket\marlin\marlin\configuration_adv.h \
  Marlin\src\feature\../inc/Conditionals_adv.h \
  Marlin\src\feature\../inc/../HAL/STM32F1/inc/Conditionals_adv.h \
  Marlin\src\feature\../inc/../HAL/HAL.h \
  Marlin\src\feature\../inc/../HAL/./STM32F1/HAL.h \
- Marlin\src\feature\../inc/../HAL/./STM32F1/../shared/Marduino.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/wirish.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/WString.h \
@@ -65,8 +65,8 @@
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/tone.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h \
- Marlin\src\feature\../inc/../HAL/./STM32F1/../shared/math_32bit.h \
- Marlin\src\feature\../inc/../HAL/./STM32F1/../shared/HAL_SPI.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h \
  Marlin\src\feature\../inc/../HAL/./STM32F1/fastio.h \
  Marlin\src\feature\../inc/../HAL/./STM32F1/watchdog.h \
  C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\system\libmaple\include/libmaple/iwdg.h \
@@ -83,13 +83,13 @@
  Marlin\src\feature\../inc/../HAL/STM32F1/inc/SanityCheck.h \
  Marlin\src\feature\../inc/../core/language.h \
  Marlin\src\feature\../inc/../core/multi_language.h \
- Marlin\src\feature\../inc/../core/../lcd/language/language_en.h \
+ e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h \
  Marlin\src\feature\../inc/../core/utility.h \
- Marlin\src\feature\../inc/../core/../core/millis_t.h \
+ e:\bitbucket\marlin\marlin\src\core\millis_t.h \
  Marlin\src\feature\../inc/../core/serial.h Marlin\src\feature\bltouch.h \
  Marlin\src\feature\../module/servo.h \
- Marlin\src\feature\../module/../HAL/shared/servo.h \
- Marlin\src\feature\../module/../HAL/shared/../STM32F1/Servo.h \
+ e:\bitbucket\marlin\marlin\src\hal\shared\servo.h \
+ e:\bitbucket\marlin\marlin\src\hal\stm32f1\servo.h \
  Marlin\src\feature\../core/debug_out.h
 
 Marlin\src\feature\../inc/MarlinConfig.h:
@@ -102,7 +102,7 @@ Marlin\src\feature\../inc/../core/boards.h:
 
 Marlin\src\feature\../inc/../core/macros.h:
 
-Marlin\src\feature\../inc/../../Configuration.h:
+e:\bitbucket\marlin\marlin\configuration.h:
 
 Marlin\src\feature\../inc/Version.h:
 
@@ -112,7 +112,7 @@ Marlin\src\feature\../inc/../HAL/STM32F1/inc/Conditionals_LCD.h:
 
 Marlin\src\feature\../inc/../core/drivers.h:
 
-Marlin\src\feature\../inc/../../Configuration_adv.h:
+e:\bitbucket\marlin\marlin\configuration_adv.h:
 
 Marlin\src\feature\../inc/Conditionals_adv.h:
 
@@ -122,7 +122,7 @@ Marlin\src\feature\../inc/../HAL/HAL.h:
 
 Marlin\src\feature\../inc/../HAL/./STM32F1/HAL.h:
 
-Marlin\src\feature\../inc/../HAL/./STM32F1/../shared/Marduino.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\marduino.h:
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores\maple/Arduino.h:
 
@@ -224,9 +224,9 @@ C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\cores
 
 C:\Users\djaye\.platformio\packages\framework-arduinoststm32-maple\STM32F1\variants\generic_stm32f103r/variant.h:
 
-Marlin\src\feature\../inc/../HAL/./STM32F1/../shared/math_32bit.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\math_32bit.h:
 
-Marlin\src\feature\../inc/../HAL/./STM32F1/../shared/HAL_SPI.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\hal_spi.h:
 
 Marlin\src\feature\../inc/../HAL/./STM32F1/fastio.h:
 
@@ -260,11 +260,11 @@ Marlin\src\feature\../inc/../core/language.h:
 
 Marlin\src\feature\../inc/../core/multi_language.h:
 
-Marlin\src\feature\../inc/../core/../lcd/language/language_en.h:
+e:\bitbucket\marlin\marlin\src\lcd\language\language_en.h:
 
 Marlin\src\feature\../inc/../core/utility.h:
 
-Marlin\src\feature\../inc/../core/../core/millis_t.h:
+e:\bitbucket\marlin\marlin\src\core\millis_t.h:
 
 Marlin\src\feature\../inc/../core/serial.h:
 
@@ -272,8 +272,8 @@ Marlin\src\feature\bltouch.h:
 
 Marlin\src\feature\../module/servo.h:
 
-Marlin\src\feature\../module/../HAL/shared/servo.h:
+e:\bitbucket\marlin\marlin\src\hal\shared\servo.h:
 
-Marlin\src\feature\../module/../HAL/shared/../STM32F1/Servo.h:
+e:\bitbucket\marlin\marlin\src\hal\stm32f1\servo.h:
 
 Marlin\src\feature\../core/debug_out.h:
